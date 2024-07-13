@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+.Hf{
+    background-color: bisque;
+    height: 4.3vh;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,23 @@
+.image-slider {
+    position: absolute;
+    /* width: 100%; */
+    /* max-width: 100%;  */
+    margin: auto;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-top: 10px;
+  }
+  
+  .image-slider img {
+    width: 50%;
+    border: none;
+    height: auto;
+    box-shadow:  rgba(0, 0, 0, 0.1);
+    transition: opacity 0.5s ease-in-out;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  

@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
+
+body{
+    font-family: "Cinzel";
+    background-color: #F9F9F9;
+    height: 100%;
+}
+img{
+    width: 100%;
+    height: 520px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+.customCaption{
+    font-family: "Overpass";
+}
+.customDiv{
+    padding-top: 40px;
+    border: 2px solid transparent; /* Add this line for the border */
+    border-radius: 10px;
+    background-color: #F9F9F9;
+
+}
+.customCol {
+    transition: transform 0.3s; /* Add this line for smooth transition */
+}
+
+.customCol:hover {
+    transform: scale(1.05); /* Scale up by 5% */
+}

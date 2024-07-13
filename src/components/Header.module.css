@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap");
+@import url(https://fonts.googleapis.com/earlyaccess/thabit.css);
+.Header {
+  background-color: aqua;
+  margin: 0;
+  width: 100%;
+}
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.AppHeader {
+  font-family: "Thabit", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 8px;
+  padding-left: 2px;
+}
+.AppHeader2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 8px;
+}
+.AppHeader,
+.AppHeader2 {
+  display: inline-block;
+  justify-content: space-between;
+}

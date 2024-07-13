@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactTests/static/css/main.1227ddbf.css",
+    "main.js": "/ReactTests/static/js/main.9c66a81b.js",
+    "static/media/WhatsApp Image 2024-07-11 at 8.43.53 PM.jpeg": "/ReactTests/static/media/WhatsApp Image 2024-07-11 at 8.43.53 PM.8a42829b742c17e053cf.jpeg",
+    "static/media/Screenshot from 2024-07-13 21-40-21.png": "/ReactTests/static/media/Screenshot from 2024-07-13 21-40-21.c4f80373a9f0dd8ec5de.png",
+    "static/media/Screenshot from 2024-07-13 21-38-51.png": "/ReactTests/static/media/Screenshot from 2024-07-13 21-38-51.dc7d1137018a5f5c960e.png",
+    "static/media/jpg": "/ReactTests/static/media/6917107cb2c461adbfbce0854687f407.6d93ff5a8b13e413fee9.jpg",
+    "static/media/dua.webp": "/ReactTests/static/media/dua.12a2d77d6ce7a69a052b.webp",
+    "index.html": "/ReactTests/index.html",
+    "main.1227ddbf.css.map": "/ReactTests/static/css/main.1227ddbf.css.map",
+    "main.9c66a81b.js.map": "/ReactTests/static/js/main.9c66a81b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1227ddbf.css",
+    "static/js/main.9c66a81b.js"
+  ]
+}
